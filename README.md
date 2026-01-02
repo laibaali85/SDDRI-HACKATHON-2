@@ -30,7 +30,7 @@ A modern, keyboard-driven Terminal User Interface (TUI) for managing todo tasks.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/GrowWidTalha/SDDRI-Hackathon-2.git
+git clone https://github.com/laibaali85/SDDRI-HACKATHON-2.git
 cd SDDRI-Hackathon-2
 ```
 
